@@ -1,0 +1,5 @@
+Stockfish dev-20260228-702d4b8c by the Stockfish developers (see AUTHORS file)
+info string Using 1 thread
+
+Position: 1/50 (rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1)
+Illegal instruction (core dumped)
